@@ -2,8 +2,9 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h3>Aplicação QR-Code</h3>
+    <div className="container">
+      <input className='input'
+        placeholder='Digite seu link'/>
     </div>
   );
 }

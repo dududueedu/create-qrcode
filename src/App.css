@@ -1,0 +1,22 @@
+.{
+  margin: 0;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.input{
+  height: 30px;
+  border-radius: 10px;
+  max-width: 300px;
+  width: 100%;
+  padding: 5px;
+  margin: 20px 0px;
+  outline: none;
+  border: 1px solid #b3b3b3;
+}
