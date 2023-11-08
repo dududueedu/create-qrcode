@@ -36,6 +36,10 @@ function App() {
       <button className='btn'> 
         <a className='tagA' href={qrcode} download={`meu-QRcode.png`}> Baixe aqui seu QRCode</a> 
       </button>
+
+      <button className='btn2'> 
+        <a className='tagA' href="https://github.com/dududueedu" >Desenvolvedor: Eduardo Silva</a>
+      </button>
     </div>
   );
 }
